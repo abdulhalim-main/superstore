@@ -1,4 +1,4 @@
-# Redoing Entire Analysis Project to learn Version Control
+# Redoing Entire Analysis Project on GitHub to learn Version Control
 
 Data Analysis project using Superstore Dataset from Kaggle containing 9,994 rows of information to extract insights on sales profitability.
 
