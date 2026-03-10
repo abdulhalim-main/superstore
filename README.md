@@ -1,6 +1,6 @@
-#Superstore Sales Profitability Analysis
+# Redoing Entire Analysis Project to learn Version Control
 
-Working on a Data Analysis project using Superstore Dataset from Kaggle containing 9,994 rows of information.
+Data Analysis project using Superstore Dataset from Kaggle containing 9,994 rows of information to extract insights on sales profitability.
 
 Folders include:
 1. 01_data_cleaning.ipynb
