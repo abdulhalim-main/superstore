@@ -4,5 +4,9 @@ Data Analysis project using Superstore Dataset from Kaggle containing 9,994 rows
 
 Files included:
 1. 01_data_cleaning.ipynb
-2. superstore.csv
-3. superstore_clean.csv
+2. 02_eda.ipynb
+3. superstore.csv
+4. superstore_clean.csv
+
+5. regional_sales_profit.png
+![alt text](region_sales_profit-1.png)
