@@ -9,7 +9,7 @@ Files included:
 4. superstore_clean.csv
 
 5. regional_sales_profit.png
-![alt text](region_sales_profit-1.png)
+![alt text](region_sales_profit.png)
 
 6. category_margin.png
-![alt text](category_margin-1.png)
+![alt text](category_margin.png)
