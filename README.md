@@ -10,3 +10,6 @@ Files included:
 
 5. regional_sales_profit.png
 ![alt text](region_sales_profit-1.png)
+
+6. category_margin.png
+![alt text](category_margin-1.png)
