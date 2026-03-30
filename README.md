@@ -19,3 +19,7 @@ Files included:
 7. discount_vs_profit.png
 
 ![alt text](discount_vs_profit.png)
+
+8. top_bottom_products.png
+
+![alt text](top_bottom_products.png)
