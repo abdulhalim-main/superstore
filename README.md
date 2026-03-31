@@ -23,3 +23,7 @@ Files included:
 8. top_bottom_products.png
 
 ![alt text](top_bottom_products.png)
+
+9. monthly_trend.png
+
+![alt text](monthly_trend.png)
