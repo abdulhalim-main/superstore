@@ -27,3 +27,7 @@ Files included:
 9. monthly_trend.png
 
 ![alt text](monthly_trend.png)
+
+10. segment_performance.png
+
+![alt text](segment_performance.png)
